@@ -1,0 +1,2 @@
+# rakt-r
+tároló
